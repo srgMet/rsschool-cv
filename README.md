@@ -1,3 +1,3 @@
 # srgMetrsshool
 
-https://srgmet.github.io/srgMetrsshool/cv
+https://srgmet.github.io/rsschool-cv/
