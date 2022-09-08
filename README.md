@@ -1,3 +1,2 @@
 # rsschool-cv
-
-https://github.com/srgMet/rsschool-cv/cv
+https://srgMet.github.io/rsschool-cv/
